@@ -1,0 +1,21 @@
+{
+  "user":[
+
+  {
+    "name": "manoj",
+    "designation": "android developer",
+    "location": "bbsr"
+  },
+    {
+    "name": "mj",
+    "designation": "android developer",
+    "location": "bbsr"
+  },
+  {
+    "name": "mkj",
+    "designation": "android developer",
+    "location": "bbsr"
+  }
+
+  ]
+}
